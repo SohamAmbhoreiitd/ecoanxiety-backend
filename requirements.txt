@@ -1,0 +1,23 @@
+# Core AI & LangChain
+langchain
+sentence-transformers
+chromadb
+unstructured[md] # For loading markdown files
+#langchain-google-genai
+langchain-community
+langchain-groq
+
+# Web Backend (for later phases)
+fastapi
+uvicorn[standard]
+fastapi-cors[standard]
+
+# Utilities
+python-dotenv
+sqlalchemy
+psycopg2-binary
+alembic
+passlib[bcrypt]
+python-jose
+streamlit
+Pandas 
